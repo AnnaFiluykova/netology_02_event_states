@@ -1,0 +1,10 @@
+.ShopItem {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.ShopItemImg img {
+  width: 60px;
+  height: 40px;
+}

@@ -1,0 +1,9 @@
+.ShopCard {
+  width: 300px;
+  margin: 10px;
+  background-color: #cecece;
+}
+
+.ShopCardImg img {
+  max-width: 100%;
+}
