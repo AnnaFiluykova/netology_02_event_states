@@ -97,6 +97,10 @@ ul {
     color: #666;
 }
 
+.dropdown-wrapper .dropdown li:hover {
+    background-color: #cecece;
+}
+
 .dropdown-wrapper .dropdown li.active {
     color: #5380F7;
 }
@@ -121,6 +125,7 @@ ul {
     font-size: 14px;
     text-decoration: none;
 }
+
 
 @keyframes ripple {
     0% {
